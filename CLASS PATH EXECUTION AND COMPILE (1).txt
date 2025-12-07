@@ -1,0 +1,7 @@
+execution
+
+java -cp ".;mongodb-driver-sync-4.11.0.jar;mongodb-driver-core-4.11.0.jar;bson-4.11.0.jar" StudentManagement
+
+compile
+
+javac -cp ".;mongodb-driver-sync-4.11.0.jar;mongodb-driver-core-4.11.0.jar;bson-4.11.0.jar" StudentManagement.java
